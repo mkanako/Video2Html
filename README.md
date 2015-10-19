@@ -5,6 +5,7 @@
 ## Demo
 [http://mkanako.github.io/Video2Html/](http://mkanako.github.io/Video2Html/)
 
+![img](http://mkanako.github.io/Video2Html/Screenshot.png)
 ## 原理
 
 使用 ffmpeg 对视频截图，然后程序处理图片生成数据，压缩，分割成 n 个 zip 包，然后前端 js 边下载 zip 包，边解压，边渲染 DOM 
